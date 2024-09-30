@@ -1,0 +1,2 @@
+# odoo_capture_image_button_new
+odoo_capture_image_button_new
