@@ -3,6 +3,8 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.4
 // @description  Adds a 'Capture Image' button in the comment menu bar in Odoo Online to capture and upload webcam pictures as attachments without submitting them immediately.
+// @updateURL    https://raw.githubusercontent.com/gfsanchez/odoo_capture_image_button_new/main/Odoo%20Online%20Capture%20Image%20Button.user.js
+// @downloadURL  https://raw.githubusercontent.com/gfsanchez/odoo_capture_image_button_new/main/Odoo%20Online%20Capture%20Image%20Button.user.js
 // @match        https://*.odoo.com/*
 // @grant        none
 // ==/UserScript==
